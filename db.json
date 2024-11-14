@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Node js is awesome"
+    },
+    {
+      "id": "2",
+      "title": "JavaScript is cool"
+    },
+    {
+      "id": "3",
+      "title": "Software development"
+    },
+    {
+      "id": "1728724205042",
+      "title": "Golang"
+    },
+    {
+      "id": "1728724477165",
+      "title": "Python for Mechine Learning"
+    },
+    {
+      "id": "1728724517813",
+      "title": "Artificial Inteligence"
+    },
+    {
+      "id": "1728726670115",
+      "title": "Electronics and Communications"
+    },
+    {
+      "id": "1728726873935",
+      "title": "Content Writing"
+    },
+    {
+      "id": 1728728057940,
+      "title": "Typescript"
+    }
+  ]
+}
